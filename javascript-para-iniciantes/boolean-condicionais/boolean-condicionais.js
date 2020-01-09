@@ -1,10 +1,10 @@
 /***  Aula - Boolean e Condicionais ***/
 
-//BOOLEAN - Existem dois valores booleanos false ou true
+//BOOLEAN - Existem dois valores booleanos false ou true. 
 var possuiGraduacao = true;
 var possuiDoutorado = false;
 
-
+//Booleanos servem para fazermos comparações condicionais.
 
 //CONDICIONAIS IF E ELSE - Verificar se uma expressão é verdadeira com if, caso contrário o else será ativado. O valor dentro dos parênteses sempre será avaliado em false ou true.
 var possuiGraduacao = true;
