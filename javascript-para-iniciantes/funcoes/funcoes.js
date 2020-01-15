@@ -117,7 +117,7 @@ function precisoVisitar(paisesVisitados) {
   var totalPaises = 193;
   return `Ainda faltam ${totalPaises - paisesVisitados} paises para visitar`
 }
-console.log(totalPaises); // erro, totalPaises não definido
+//console.log(totalPaises); -- erro, totalPaises não definido
 
 
 /*
@@ -135,8 +135,20 @@ function dados() {
     var idade = 29;
     return `${nome}, ${idade}, ${endereco}, ${profissao}`;
   }
-  return dados();
+  return outrosDados();
 }
 
-dados(); // Retorna 'André, 29, Rio de Janeiro, Designer'
-outrosDados(); // retorna um erro
+console.log(dados()); // Retorna 'André, 29, Rio de Janeiro, Designer'
+//outrosDados(); -- retorna um erro porque está dentro da função e não tenho acesso
+
+/*
+HOISTING
+Antes de executar uma função, o JS 'move' todas as funções declaradas para a memória
+*/
+
+imc(80, 1.80); // imc aparece no console
+
+function imc(peso, altura) {
+  const imc = peso / (altura ** 2);
+  console.log(imc);
+}
