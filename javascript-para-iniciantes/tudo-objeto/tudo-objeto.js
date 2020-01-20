@@ -42,7 +42,8 @@ areaQuadrado.length; // 1
 
 
 /* ELEMENTOS DO DOM */
-<a class="btn">Clique</a>
+
+{/* <a class="btn">Clique</a> */}
 
 var btn = document.querySelector('.btn');
 
