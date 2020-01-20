@@ -6,13 +6,13 @@ Conjunto de variáveis e funções, que são chamadas de propriedades e métodos
 */
 
 var pessoa = {
-  nome: 'André',
+  nome: 'Angélica',
   idade: 28,
   profissao: 'Designer',
   possuiFaculdade: true,
 }
 
-pessoa.nome; // 'André'
+pessoa.nome; // 'Angélica'
 pessoa.possuiFaculdade; // true
 
 //Propriedades e métodos consistem em nome (chave) e valor
