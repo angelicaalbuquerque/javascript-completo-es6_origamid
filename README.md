@@ -10,78 +10,63 @@
 </p>
 
 <p align="center">
-<img alt="Made by Angélica Albuquerque" src="https://img.shields.io/badge/made%20by-Angélica Albuquerque-%20?color=0a6cad">
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/angelicaalbuquerque/javascript-completo-es6_origamid?color=0a6cad">
-<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/javascript-completo-es6_origamid?color=0a6cad">
+<img alt="Made by Angélica Albuquerque" src="https://img.shields.io/badge/made%20by-Angélica Albuquerque-%20?color=fdc500">
+<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/javascript-completo-es6_origamid?color=fdc500">
 </p>
 
 ---
 
-<!--
+<p align="center">
+  <a href="#-Sobre">Sobre</a>&nbsp;&nbsp;|&nbsp;
+  <!-- <a>
+    <a href="#-Acessar-os-projetos">Acessar os projetos</a>&nbsp;&nbsp;|&nbsp;
+  <a> -->
+  <a href="#-Entre-em-contato">Contato</a>
+</p>
+
 ## 📚 Sobre
 
-<p>
-<b>FlexBlog</b> é o projeto resultante do curso prático de layout responsivo e Front-End utilizando apenas as propriedades do Flexbox, "CSS Flexbox", lecionado por André Rafael e criado pela <a href="https://www.origamid.com/curso/css-flexbox/">Origamid</a>.
+O curso "[JavaScript Completo ES6+](https://www.origamid.com/curso/javascript-completo-es6)", ministrado por André Rafael (Origamid), vai do básico ao avançado. Ao final dele, o aluno terá uma compreensão total da linguagem, dos seus principais métodos e da sua sintaxe.
 
-O curso mostra todos os fundamentos, todas as propriedades e o que elas fazem no CSS.
+O foco é no aprendizado da linguagem, mas o principal local de aplicação será na web, através de manipulações do DOM e requisições via Fetch API.
 
-### Grade do curso
+Esse não é um curso para quem deseja algo rápido, mas sim para quem deseja dominar a linguagem. O código ensinado utiliza todas as novidades das novas versões de JavaScript, como arrow functions, promises e mais.
 
-<details>
-  <summary>Fundamentos do Flexbox</summary>
+Alguns dos diversos assuntos abordados neste curso:
 
-- Display Flex
-- Flex Direction
-- Flex Wrap
-- Flex Flow
-- Justify Content
-- Align Items
-- Align Content
-- Flex Grow
-- Flex Basis
-- Flex Shrink
-- Flex
-- Order
-- Align Self
-</details>
+- Objetos;
+- Arrays;
+- Funções;
+- Classes;
+- DOM;
+- Eventos;
+- Promises;
+- Async Await;
+- Fetch;
+- Closures;
+- Destructuring;
+- RegExp;
+- Automação Front-End.
 
-<details>
-  <summary>FlexBlog</summary>
+<!-- ## 💻 Acessar os projetos
 
-- FlexBlog HTML - 1
-- FlexBlog HTML - 2
-- FlexBlog CSS Reset
-- FlexBlog Superinfo
-- FlexBlog Menu
-- FlexBlog Sobre
-- FlexBlog Produtos
-- FlexBlog Preço
-- FlexBlog Qualidade
-- FlexBlog Footer
-</details>
+_Os estudos serão compartilhados em breve._ -->
 
 ## 📬 Entre em contato!
 
 <p align="left">
-
+    <a href="https://www.frontangie.dev/" target="blank" style="text-decoration: none; color: unset;">
+    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/portfolio.svg" alt="frontangie.dev" height="50" width="50" />
+  </a>
   <a href="https://linkedin.com/in/angelica-albuquerque/" target="blank" style="text-decoration: none; color: unset;">
-    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f7a53a1a79600d93eed5e21e8f32ff0256471e00/icons/linkedin.svg" alt="Linkedin" height="30" width="30" />
-  </a> &nbsp
-  <a href="mailto:angelica.o.albuquerque@gmail.com" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f7a53a1a79600d93eed5e21e8f32ff0256471e00/icons/email.svg" alt="Email" height="30" width="30" />
-  </a> &nbsp
+    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/linkedin.svg" alt="Linkedin" height="50" width="50" />
+  </a>
+  <a href="mailto:hi@frontangie.dev" target="blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/email.svg" alt="Email" height="50" width="50" />
+  </a>
   <a href="https://twitter.com/frontangie" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f7a53a1a79600d93eed5e21e8f32ff0256471e00/icons/twitter.svg" alt="Twitter" height="30" width="30" />
-    </a> &nbsp
-  <a href="https://dev.to/frontangie" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f7a53a1a79600d93eed5e21e8f32ff0256471e00/icons/devto.svg" alt="DevTo" height="30" width="30" />
-  </a> &nbsp
-  <a href="https://br.pinterest.com/FrontAngie/" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f7a53a1a79600d93eed5e21e8f32ff0256471e00/icons/pinterest.svg" alt="Pinterest" height="30" width="30" />
-  </a> &nbsp
-  <a href="https://instagram.com/frontangie" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f7a53a1a79600d93eed5e21e8f32ff0256471e00/icons/instagram.svg" alt="Instagram" height="30" width="30" />
-  </a> &nbsp &nbsp
+    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/twitter.svg" alt="Twitter" height="50" width="50" />
+    </a>
 </p>
 
 ---
@@ -91,5 +76,6 @@ Feito com ☕ e 🖤 por Angélica Albuquerque
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/gif/hi.gif" width="25px">
-</p> -->
+<img src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/gif/hi.gif" width="25px"> 
+</p>
+
