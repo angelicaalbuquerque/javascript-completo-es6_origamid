@@ -1,5 +1,5 @@
 <h2 align="center">
-  JavaScript Complet ES6+ | <img alt="badge rocketseat" align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/origamid-white.svg">
+  JavaScript Completo ES6+ | <img alt="badge rocketseat" align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/origamid-white.svg">
 </h2>
 
 <p align="center">
